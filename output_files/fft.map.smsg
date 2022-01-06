@@ -1,0 +1,8 @@
+Info (10281): Verilog HDL Declaration information at Adder.v(8): object "b" differs only in case from object "B" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 8
+Info (10281): Verilog HDL Declaration information at Adder.v(26): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 26
+Info (10281): Verilog HDL Declaration information at Adder.v(51): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 51
+Info (10281): Verilog HDL Declaration information at Adder.v(73): object "cin" differs only in case from object "Cin" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 73
+Info (10281): Verilog HDL Declaration information at Adder.v(73): object "p" differs only in case from object "P" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 73
+Info (10281): Verilog HDL Declaration information at Adder.v(73): object "g" differs only in case from object "G" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Adder.v Line: 73
+Info (10281): Verilog HDL Declaration information at Mult.v(2): object "a" differs only in case from object "A" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Mult.v Line: 2
+Info (10281): Verilog HDL Declaration information at Mult.v(2): object "b" differs only in case from object "B" in the same scope File: G:/VLSI_ASIC_IC_designs/fastft/Mult.v Line: 2

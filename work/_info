@@ -1,0 +1,355 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Quartus_18.1_lite
+vAdder
+Z0 !s110 1639147939
+!i10b 1
+!s100 aOQ`0V7VLkVh?lOK9X89m1
+ImS[VS^Y02FL:m0eQL7mhm3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/VLSI_ASIC_IC_designs/fastft
+Z3 w1638462544
+Z4 8G:/VLSI_ASIC_IC_designs/fastft/Adder.v
+Z5 FG:/VLSI_ASIC_IC_designs/fastft/Adder.v
+L0 70
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1639147939.000000
+Z8 !s107 G:/VLSI_ASIC_IC_designs/fastft/Adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/Adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@adder
+vadder
+R0
+!i10b 1
+!s100 L3cB:c1dXN_?4@e319jJ`3
+ICE_^jf`Sek4mc_W0AA4z63
+R1
+R2
+Z12 w1638972275
+Z13 8G:/VLSI_ASIC_IC_designs/fastft/FFT .v
+Z14 FG:/VLSI_ASIC_IC_designs/fastft/FFT .v
+L0 211
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 G:/VLSI_ASIC_IC_designs/fastft/FFT .v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/FFT .v|
+!i113 1
+R10
+R11
+vadder_32bit
+R0
+!i10b 1
+!s100 9T2cNg;PC;TJB^BgcVnX_1
+I@^HeNDB`NYjLG<cPbVY9a0
+R1
+R2
+R12
+R13
+R14
+L0 142
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vadder_3bit
+R0
+!i10b 1
+!s100 129D>fa7B=6dk@BO^ULSX3
+IW<3_>=lki2V6b`fgBOSEj1
+R1
+R2
+R12
+R13
+R14
+L0 193
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vbutterfly
+R0
+!i10b 1
+!s100 0oQz4K;]4]OdQPc3lO;L13
+IE@mPEOYJ8UVfPi]3m7a7R1
+R1
+R2
+R12
+R13
+R14
+L0 56
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vcarry_block_4bits
+R0
+!i10b 1
+!s100 a2LLnL>FgJH^F>N_Ce7zl0
+IczB0X<`PJMJ8@fA9ZK76Q0
+R1
+R2
+R3
+R4
+R5
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vcomplex_mult
+R0
+!i10b 1
+!s100 J;@ZINUBI`jgT[DKT4^P40
+IVflJZ38?o`TKW05?Pjz?^2
+R1
+R2
+w1638586240
+8G:/VLSI_ASIC_IC_designs/fastft/complex_mult.v
+FG:/VLSI_ASIC_IC_designs/fastft/complex_mult.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 G:/VLSI_ASIC_IC_designs/fastft/complex_mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/complex_mult.v|
+!i113 1
+R10
+R11
+vcontroller
+R0
+!i10b 1
+!s100 g^OG?X1f7_E_2Q[DTj5b93
+IJm^j^SeJB_mHYjB^V6P_i0
+R1
+R2
+R12
+R13
+R14
+L0 76
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vFA_4bits
+R0
+!i10b 1
+!s100 Z83>9Jz=T54d[SmLH:ZT93
+I8>LRFJG]j7=[CCDD0L^OK2
+R1
+R2
+R3
+R4
+R5
+L0 48
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@f@a_4bits
+vFFT
+R0
+!i10b 1
+!s100 5RJR`XfKi_Te6TSe<?S?02
+I4Rd5m_K4a6@37zP:HWMOj3
+R1
+R2
+R12
+R13
+R14
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+n@f@f@t
+vFFT_DUT_tb
+!s110 1639014513
+!i10b 1
+!s100 GTh@2eTA0LjSEI>MkB;]00
+IKXiS8ZD>POX9gjWU>:CC31
+R1
+R2
+w1639014505
+8G:/VLSI_ASIC_IC_designs/fastft/FFT_DUT_tb.v
+FG:/VLSI_ASIC_IC_designs/fastft/FFT_DUT_tb.v
+L0 4
+R6
+r1
+!s85 0
+31
+!s108 1639014513.000000
+!s107 G:/VLSI_ASIC_IC_designs/fastft/FFT_DUT_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/FFT_DUT_tb.v|
+!i113 1
+R10
+R11
+n@f@f@t_@d@u@t_tb
+vFFT_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R0
+!i10b 1
+!s100 MRfaaPKE0z>CVK2BbNYI>1
+IalJkSXG_i^nj@^`WNBJL`1
+R1
+!s105 fft_tb_sv_unit
+S1
+R2
+w1639088817
+8G:/VLSI_ASIC_IC_designs/fastft/fft_tb.sv
+FG:/VLSI_ASIC_IC_designs/fastft/fft_tb.sv
+L0 4
+R6
+r1
+!s85 0
+31
+R7
+!s107 G:/VLSI_ASIC_IC_designs/fastft/fft_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/fft_tb.sv|
+!i113 1
+o-work work -sv
+R11
+n@f@f@t_tb
+vfull_adder_1_bit
+R0
+!i10b 1
+!s100 0m:X6?JLk?k9HXdRa8S^o3
+I6D;bD>FDzlnF=e:;=l?j>1
+R1
+R2
+R3
+R4
+R5
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vgeneral_register
+R0
+!i10b 1
+!s100 BWJ`nz3ncQ^_M=ae37ejj2
+IB8INO92aO=`a?099K:H481
+R1
+R2
+R12
+R13
+R14
+L0 123
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vMult
+R0
+!i10b 1
+!s100 5MTbkk6<hZ86aPZ6JZelZ1
+IJ?o0GM6BT@o8bUO]7G6`P0
+R1
+R2
+w1638462627
+8G:/VLSI_ASIC_IC_designs/fastft/Mult.v
+FG:/VLSI_ASIC_IC_designs/fastft/Mult.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 G:/VLSI_ASIC_IC_designs/fastft/Mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/VLSI_ASIC_IC_designs/fastft/Mult.v|
+!i113 1
+R10
+R11
+n@mult
+vmux4_1
+R0
+!i10b 1
+!s100 XRhdeGfH8AE?5nM;4<Xbf0
+I7T8FEb0c7C?Lj?<HR4f0Y2
+R1
+R2
+R12
+R13
+R14
+L0 224
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
